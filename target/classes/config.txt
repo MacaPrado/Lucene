@@ -1,0 +1,3 @@
+dir=/Users/macarena/Desktop/EDA\ 2.0/LuceneDocs
+
+language=SP
